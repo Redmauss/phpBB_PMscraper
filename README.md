@@ -25,9 +25,7 @@ In the cloned directory type `./PMScrape` The program should open a firefox wind
 
 The program will then ask for your DT username and password.  Use `Shift + Ctrl + V` to paste them in your terminal.
 
-PMscraper will then log in and log all of your PM links.  It will then proceed to go through each link and save the messages. Depending on the amount of PM's you 
-
-have, this could take from minutes to several hours. 
+PMscraper will then log in and log all of your PM links.  It will then proceed to go through each link and save the messages. Depending on the amount of PM's you have, this could take from minutes to several hours. 
 
 Once the the program is finished, the firefox window will close and all your messages with be saved to a file `Messages .json`
 
