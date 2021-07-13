@@ -17,6 +17,7 @@ geckodriver for selenium: https://github.com/mozilla/geckodriver/releases
 
 
 Linux:
+
 `git clone https://github.com/Redmauss/phpBB_PMscraper.git` into a directory of your choice or download the ZIP file and extract.  
 
 
@@ -31,6 +32,7 @@ have, this could take from minutes to several hours.
 Once the the program is finished, the firefox window will close and all your messages with be saved to a file `Messages .json`
 
 Windows:
+
 You can follow the same process above if you install wsl for windows 10: https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 Be sure to change the powershell windows settings to allow `Shift + Ctrl + V` in the popup window. 
