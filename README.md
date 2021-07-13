@@ -1,7 +1,7 @@
 # phpBB_PMscraper
 A web scraper for extracting PM's from a phpBB forum, in this case deskthority.net
 
-This is a web scraper made in order to extract all the PM's from deskthority.net into a .json file with a structured dictionary structure. 
+This is a web scraper made in order to extract all the PM's from deskthority.net into a .json file with a nested dictionary structure. 
 
 Depending on interest, images might be added into this program later.  
 
