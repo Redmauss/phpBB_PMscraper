@@ -18,7 +18,7 @@ geckodriver for selenium: https://github.com/mozilla/geckodriver/releases
 
 Linux:
 
-`git clone https://github.com/Redmauss/phpBB_PMscraper.git` into a directory of your choice or download the ZIP file and extract.  
+Download release from here: `https://github.com/Redmauss/phpBB_PMscraper/releases/tag/phpBBdtpm`  
 
 
 In the cloned directory type `./PMScrape` The program should open a firefox window. 
